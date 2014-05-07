@@ -9,9 +9,9 @@ Think of this as the story that you tell your friends and family when they ask w
 
 # Important Links
 
-* [Tracker](http://pivotaltracker.com)
-* [Staging](http://heroku.com)
-* [Production](http://heroku.com)
+* [Tracker](http://pivotaltracker.com/some_tracker_project)
+* [Staging](http://some-staging-app.herokuapp.com)
+* [Production](http://some-production-app.herokuapp.com)
 
 # Development
 
