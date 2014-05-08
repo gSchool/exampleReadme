@@ -15,7 +15,7 @@ Think of this as the story that you tell your friends and family when they ask w
 * [Staging](http://some-staging-app.herokuapp.com)
 * [Production](http://some-production-app.herokuapp.com)
 
-## SetUp
+## Setup
 
 Please follow the steps below to get this site set up for local development.
 
